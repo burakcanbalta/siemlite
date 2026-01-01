@@ -66,7 +66,7 @@ siemlite/
 
 1. Bu repoyu klonla:
 ```bash
-git clone https://github.com/kullaniciadi/siemlite.git
+git clone https://github.com/burakcanbalta/siemlite.git
 cd siemlite
 ```
 
